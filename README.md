@@ -14,14 +14,14 @@
 ---
 ## Features
 
-- ✅ 8-bit GCD computation using the Euclidean subtraction algorithm
-- ✅ Datapath-Controlpath architecture
-- ✅ FSM-based controller with 8 states
-- ✅ Modular Verilog design
-- ✅ Separate modules for subtractor, multiplexer, register, comparator, datapath, and controlpath
-- ✅ Behavioral testbench for verification
-- ✅ Easy to extend for larger bit widths
-- ✅ Suitable for learning RTL design and FSM implementation
+-  8-bit GCD computation using the Euclidean subtraction algorithm
+-  Datapath-Controlpath architecture
+-  FSM-based controller with 8 states
+-  Modular Verilog design
+-  Separate modules for subtractor, multiplexer, register, comparator, datapath, and controlpath
+-  Behavioral testbench for verification
+-  Easy to extend for larger bit widths
+-  Suitable for learning RTL design and FSM implementation
 
 ---
 ## Algorithm
